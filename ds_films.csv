@@ -1,0 +1,571 @@
+index;title;year;rating;votes;runtime;genre;Awards
+1;The Wizard of Oz;1939;8,1;208759;102;Adventure;0
+2;Singin' in the Rain;1952;8,4;108083;103;Comedy;1
+3;Seven Samurai;1954;8,8;172933;207;Action;0
+4;The Bridge on the River Kwai;1957;8,3;110134;161;Adventure;0
+5;Ben-Hur;1959;8,2;115368;212;Adventure;1
+6;North by Northwest;1959;8,5;165993;136;Action;1
+7;Some Like It Hot;1959;8,4;130010;120;Comedy;0
+8;Lawrence of Arabia;1962;8,4;140500;216;Adventure;1
+9;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;1964;8,6;263464;95;Comedy;0
+10;Goldfinger;1964;7,8;110105;110;Action;0
+11;The Good, the Bad and the Ugly;1966;9;355063;161;Adventure;1
+12;The Graduate;1967;8,1;161971;106;Comedy;1
+13;2001: A Space Odyssey;1968;8,3;;160;Adventure;1
+14;Planet of the Apes;1968;8;109646;112;Adventure;0
+15;Butch Cassidy and the Sundance Kid;1969;8,2;111062;110;Adventure;1
+16;Once Upon a Time in the West;1968;8,7;156656;175;Adventure;1
+17;The Sting;1973;8,4;127707;129;Comedy;0
+18;Monty Python and the Holy Grail;1975;8,4;284261;91;Adventure;0
+19;Jaws;1975;8,1;290173;124;Adventure;0
+20;Annie Hall;1977;8,2;138710;93;Comedy;0
+21;Close Encounters of the Third Kind;1977;7,7;109786;137;Adventure;0
+22;Star Wars: Episode IV - A New Hope;1977;8,7;633482;121;Action;1
+23;Life of Brian;1979;8,2;198588;94;Comedy;1
+24;Airplane!;1980;7,8;121941;88;Comedy;1
+25;The Blues Brothers;1980;8;110332;133;Action;1
+26;Star Wars: Episode V - The Empire Strikes Back;1980;8,8;565009;124;Action;1
+27;Das Boot;1981;8,5;126994;149;Action;1
+28;Raiders of the Lost Ark;1981;8,6;471716;115;Action;0
+29;E.T. the Extra-Terrestrial;1982;7,9;218846;115;Adventure;0
+30;First Blood;1982;7,6;134361;93;Action;0
+31;Star Wars: Episode VI - Return of the Jedi;1983;8,4;441741;134;Action;0
+32;Ghostbusters;1984;7,8;194518;105;Comedy;0
+33;Gremlins;1984;7,2;101827;106;Comedy;0
+34;Indiana Jones and the Temple of Doom;1984;7,6;228887;118;Action;0
+35;The Terminator;1984;8,1;413023;107;Action;0
+36;Back to the Future;1985;8,5;480044;116;Adventure;0
+37;The Breakfast Club;1985;7,9;184470;97;Comedy;0
+38;The Goonies;1985;7,8;132714;114;Adventure;0
+39;Aliens;1986;8,5;353331;137;Action;0
+40;Ferris Bueller's Day Off;1986;7,9;188023;103;Comedy;1
+41;Platoon;1986;8,2;217637;120;Action;0
+42;Stand by Me;1986;8,2;198547;89;Adventure;0
+43;Top Gun;1986;6,8;166022;110;Action;0
+44;Lethal Weapon;1987;7,6;153833;110;Action;0
+45;Predator;1987;7,9;222991;107;Action;0
+46;The Princess Bride;1987;8,2;223131;98;Adventure;1
+47;RoboCop;1987;7,5;132804;102;Action;1
+48;Spaceballs;1987;7,1;105340;96;Adventure;1
+49;Beetlejuice;1988;7,4;138783;92;Comedy;1
+50;Big;1988;7,3;115561;104;Comedy;1
+51;Die Hard;1988;8,3;431784;131;Action;0
+52;My Neighbor Totoro;1988;8,3;101476;86;Animation;1
+53;Who Framed Roger Rabbit;1988;7,7;105875;104;Animation;1
+54;The Abyss;1989;7,6;106501;139;Adventure;0
+55;Back to the Future Part II;1989;7,8;220721;108;Adventure;1
+56;Batman;1989;7,6;209080;126;Action;0
+57;Ghostbusters II;1989;6,5;100209;108;Action;1
+58;Indiana Jones and the Last Crusade;1989;8,3;364028;127;Action;1
+59;The Little Mermaid;1989;7,6;110118;83;Animation;1
+60;When Harry Met Sally...;1989;7,6;118500;96;Comedy;1
+61;Back to the Future Part III;1990;7,4;182749;118;Adventure;0
+62;Dances with Wolves;1990;8;143462;181;Adventure;0
+63;Die Hard 2;1990;7,1;205192;124;Action;0
+64;Home Alone;1990;7,4;212728;103;Comedy;1
+65;The Hunt for Red October;1990;7,6;116660;134;Action;1
+66;Pretty Woman;1990;6,9;156340;119;Comedy;1
+67;Total Recall;1990;7,5;186250;113;Action;1
+68;Beauty and the Beast;1991;8,1;208513;84;Animation;1
+69;Hook;1991;6,6;137257;144;Adventure;1
+70;Robin Hood: Prince of Thieves;1991;6,9;117561;143;Action;1
+71;Terminator 2: Judgment Day;1991;8,5;523190;137;Action;1
+72;Alien\302\263;1992;6,4;153592;114;Action;0
+73;Batman Returns;1992;7;163620;126;Action;0
+74;Home Alone 2: Lost in New York;1992;6,4;132595;120;Adventure;1
+75;Lethal Weapon 3;1992;6,7;103140;118;Action;1
+76;Army of Darkness;1992;7,6;100971;81;Comedy;1
+77;The Fugitive;1993;7,8;175786;130;Action;0
+78;Groundhog Day;1993;8,1;309100;101;Comedy;0
+79;Jurassic Park;1993;8;373499;127;Adventure;0
+80;Mrs. Doubtfire;1993;6,8;124978;125;Comedy;1
+81;The Nightmare Before Christmas;1993;8,1;175067;76;Animation;0
+82;Ace Ventura: Pet Detective;1994;6,9;157869;86;Comedy;1
+83;Clerks.;1994;7,9;153365;92;Comedy;1
+84;The Crow;1994;7,6;111499;102;Action;0
+85;Dumb & Dumber;1994;7,3;216305;107;Comedy;1
+86;The Lion King;1994;8,5;405912;89;Animation;0
+87;The Mask;1994;6,8;186368;101;Comedy;0
+88;Speed;1994;7,2;205061;116;Action;0
+89;Stargate;1994;7;123488;121;Action;1
+90;True Lies;1994;7,2;150049;141;Action;0
+91;Ace Ventura: When Nature Calls;1995;6,2;117598;90;Comedy;1
+92;Apollo 13;1995;7,6;164684;140;Adventure;0
+93;Bad Boys;1995;6,8;125143;118;Action;0
+94;Batman Forever;1995;5,4;149277;121;Action;1
+95;Braveheart;1995;8,4;525145;177;Action;1
+96;Desperado;1995;7,2;109163;104;Action;0
+97;Die Hard: With a Vengeance;1995;7,6;232763;131;Action;0
+98;GoldenEye;1995;7,2;158232;130;Action;1
+99;Heat;1995;8,3;323754;170;Action;0
+100;Jumanji;1995;6,7;135034;104;Adventure;1
+101;Toy Story;1995;8,3;409668;81;Animation;0
+102;Waterworld;1995;6;114219;135;Action;1
+103;From Dusk Till Dawn;1996;7,3;164022;108;Action;0
+104;Happy Gilmore;1996;7;114980;92;Comedy;1
+105;Independence Day;1996;6,9;326834;145;Action;0
+106;Jerry Maguire;1996;7,3;146862;139;Comedy;0
+107;Mars Attacks!;1996;6,3;137730;106;Comedy;1
+108;Mission: Impossible;1996;7;217631;110;Action;0
+109;The Rock;1996;7,4;214355;136;Action;0
+110;Twister;1996;6,2;120055;113;Action;0
+111;Air Force One;1997;6,4;117900;124;Action;0
+112;Alien: Resurrection;1997;6,3;126907;109;Action;1
+113;Austin Powers: International Man of Mystery;1997;7;146879;89;Comedy;1
+114;Batman & Robin;1997;3,6;150316;125;Action;0
+115;The Big Lebowski;1998;8,2;381537;117;Comedy;0
+116;Life Is Beautiful;1997;8,6;267087;116;Comedy;1
+117;Con Air;1997;6,8;178495;115;Action;1
+118;Face/Off;1997;7,3;223669;138;Action;0
+119;The Fifth Element;1997;7,6;261202;126;Action;1
+120;Liar Liar;1997;6,8;158903;86;Comedy;0
+121;The Lost World: Jurassic Park;1997;6,4;187100;129;Action;1
+122;Men in Black;1997;7,2;292609;98;Comedy;0
+123;Princess Mononoke;1997;8,5;150213;134;Animation;1
+124;As Good as It Gets;1997;7,8;189502;139;Comedy;1
+125;Three Kings;1999;7,2;116354;114;Action;0
+126;Starship Troopers;1997;7,2;179573;129;Action;1
+127;Tomorrow Never Dies;1997;6,4;116800;119;Action;1
+128;Toy Story 2;1999;7,9;276867;92;Animation;0
+129;The Truman Show;1998;8;457199;103;Comedy;0
+130;Armageddon;1998;6,6;252343;151;Action;0
+131;Being John Malkovich;1999;7,8;207820;112;Comedy;1
+132;Blade;1998;7,1;144929;120;Action;1
+133;The Mummy;1999;7;251958;125;Action;1
+134;A Bug's Life;1998;7,2;159524;95;Animation;0
+135;Chicken Run;2000;7,1;107470;84;Animation;0
+136;Deep Impact;1998;6,1;113121;120;Action;0
+137;Dogma;1999;7,4;154732;130;Adventure;0
+138;Enemy of the State;1998;7,3;153279;132;Action;0
+139;Fantastic Four;2005;5,7;199059;106;Action;1
+140;Fear and Loathing in Las Vegas;1998;7,8;171879;118;Comedy;1
+141;Godzilla;1998;5,2;120832;139;Action;0
+142;Lock, Stock and Two Smoking Barrels;1998;8,2;303829;107;Comedy;1
+143;The Lord of the Rings: The Fellowship of the Ring;2001;8,9;870253;178;Action;1
+144;The Mask of Zorro;1998;6,7;107542;136;Action;0
+145;Mulan;1998;7,5;108134;88;Animation;0
+146;Resident Evil;2002;6,7;159865;100;Action;1
+147;Rush Hour;1998;6,9;142643;98;Action;0
+148;Saving Private Ryan;1998;8,6;596960;169;Action;0
+149;Wild Wild West;1999;4,7;108272;106;Action;1
+150;X-Men;2000;7,4;307750;104;Action;0
+151;Men in Black II;2002;6;186510;88;Action;1
+152;Corpse Bride;2005;7,4;136511;77;Animation;1
+153;Star Wars: Episode II - Attack of the Clones;2002;6,8;323973;142;Action;0
+154;Star Wars: Episode III - Revenge of the Sith;2005;7,7;360711;140;Action;1
+155;Lethal Weapon 4;1998;6,6;104551;127;Action;0
+156;Ronin;1998;7,3;123989;122;Action;1
+157;Analyze This;1999;6,7;104010;103;Comedy;1
+158;Notting Hill;1999;7;152034;124;Comedy;0
+159;Shrek;2001;7,9;340044;90;Animation;1
+160;Rushmore;1998;7,8;102686;93;Comedy;0
+161;You've Got Mail;1998;6,5;118484;119;Comedy;1
+162;Run Lola Run;1998;7,8;138797;80;Action;1
+163;The Matrix;1999;8,7;836596;136;Action;0
+164;Planet of the Apes;2001;5,7;143608;119;Action;0
+165;Pitch Black;2000;7,1;158680;109;Action;1
+166;Shakespeare in Love;1998;7,2;142233;123;Comedy;1
+167;Big Daddy;1999;6,4;121887;93;Comedy;0
+168;The Boondock Saints;1999;7,9;171296;108;Action;0
+169;Austin Powers: The Spy Who Shagged Me;1999;6,6;147827;95;Action;1
+170;Lara Croft: Tomb Raider;2001;5,7;122293;100;Action;1
+171;High Fidelity;2000;7,6;118541;113;Comedy;0
+172;10 Things I Hate About You;1999;7,2;162494;97;Comedy;0
+173;Office Space;1999;7,9;162583;89;Comedy;1
+174;South Park: Bigger Longer & Uncut;1999;7,8;129575;81;Animation;0
+175;Charlie's Angels;2000;5,5;121540;98;Action;1
+176;Cast Away;2000;7,7;282499;143;Adventure;1
+177;Jurassic Park III;2001;5,9;148552;92;Action;0
+178;American Pie;1999;7;253141;95;Comedy;0
+179;The Beach;2000;6,6;130952;119;Adventure;0
+180;Hellboy;2004;6,8;193137;122;Action;0
+181;The Lord of the Rings: The Return of the King;2003;8,9;840207;201;Action;0
+182;The Lord of the Rings: The Two Towers;2002;8,8;755913;179;Action;1
+183;How the Grinch Stole Christmas;2000;5,9;103715;104;Comedy;0
+184;Bad Boys II;2003;6,5;138299;147;Action;0
+185;Gladiator;2000;8,5;660343;155;Action;0
+186;Scary Movie;2000;6,2;147726;88;Comedy;0
+187;Galaxy Quest;1999;7,3;101046;102;Adventure;0
+188;Minority Report;2002;7,7;306762;145;Action;0
+189;Terminator 3: Rise of the Machines;2003;6,4;226497;109;Action;1
+190;Me, Myself & Irene;2000;6,5;148136;116;Comedy;1
+191;A Knight's Tale;2001;6,9;109282;132;Action;1
+192;Gone in Sixty Seconds;2000;6,4;173209;118;Action;1
+193;The Patriot;2000;7,1;162211;165;Action;0
+194;Blade II;2002;6,7;119763;117;Action;1
+195;Crouching Tiger, Hidden Dragon;2000;7,9;187749;120;Action;0
+196;O Brother, Where Art Thou?;2000;7,8;175313;106;Comedy;0
+197;Zoolander;2001;6,6;146343;89;Comedy;0
+198;Monsters, Inc.;2001;8,1;374709;92;Animation;1
+199;What Women Want;2000;6,4;126978;127;Comedy;0
+200;Snatch.;2000;8,4;432274;102;Comedy;1
+201;The Mummy Returns;2001;6,3;197735;130;Action;0
+202;Am\303\251lie;2001;8,5;381795;122;Comedy;1
+203;Meet the Parents;2000;7;206645;108;Comedy;0
+204;Miss Congeniality;2000;6,1;101504;109;Action;1
+205;A.I. Artificial Intelligence;2001;7,1;190165;146;Adventure;0
+206;Pearl Harbor;2001;5,9;193956;183;Action;1
+207;Road Trip;2000;6,5;107578;93;Adventure;1
+208;The Fast and the Furious;2001;6,5;187877;106;Action;0
+209;The Matrix Reloaded;2003;7,2;332152;138;Action;0
+210;Equilibrium;2002;7,6;209008;107;Action;1
+211;Harry Potter and the Sorcerer's Stone;2001;7,4;324946;152;Adventure;0
+212;The Matrix Revolutions;2003;6,7;287262;129;Action;1
+213;Bridget Jones's Diary;2001;6,7;128121;97;Comedy;0
+214;Swordfish;2001;6,5;133134;99;Action;1
+215;Spirited Away;2001;8,6;272880;125;Animation;1
+216;Die Another Day;2002;6,1;132480;133;Action;1
+217;How to Lose a Guy in 10 Days;2003;6,3;107498;116;Comedy;0
+218;American Pie 2;2001;6,4;158631;108;Comedy;0
+219;S.W.A.T.;2003;6;100303;117;Action;0
+220;The Bourne Identity;2002;7,9;299565;119;Action;0
+221;Ghost Rider;2007;5,2;139066;114;Action;1
+222;Jay and Silent Bob Strike Back;2001;6,9;109863;104;Comedy;0
+223;The Girl Next Door;2004;6,8;141333;108;Comedy;0
+224;The Royal Tenenbaums;2001;7,6;160053;110;Comedy;0
+225;Battle Royale;2000;7,8;113063;114;Adventure;0
+226;Finding Nemo;2003;8,2;450974;100;Animation;1
+227;Kill Bill: Vol. 1;2003;8,2;506053;111;Action;0
+228;Rush Hour 2;2001;6,5;125336;90;Action;1
+229;Spy Game;2001;7;100852;126;Action;1
+230;Adaptation.;2002;7,8;117234;114;Comedy;0
+231;Ice Age;2002;7,6;232009;81;Animation;0
+232;About a Boy;2002;7,1;118731;101;Comedy;1
+233;Once Upon a Time in Mexico;2003;6,4;106116;102;Action;0
+234;Hulk;2003;5,7;162740;138;Action;1
+235;Daredevil;2003;5,4;133471;103;Action;0
+236;Meet the Fockers;2004;6,3;167275;115;Comedy;0
+237;X-Men 2;2003;7,5;283394;133;Action;0
+238;The Transporter;2002;6,8;179541;92;Action;0
+239;Austin Powers in Goldmember;2002;6,2;132448;94;Action;0
+240;Harry Potter and the Chamber of Secrets;2002;7,3;284412;161;Adventure;0
+241;xXx;2002;5,8;116673;124;Action;0
+242;The Chronicles of Riddick;2004;6,7;149184;119;Action;1
+243;Shrek 2;2004;7,3;226472;93;Animation;0
+244;Chicago;2002;7,2;138736;113;Comedy;0
+245;Old School;2003;7,2;158258;91;Comedy;0
+246;Harry Potter and the Prisoner of Azkaban;2004;7,8;279347;142;Adventure;1
+247;Anger Management;2003;6,2;141065;106;Comedy;0
+248;Shark Tale;2004;6;102558;90;Animation;1
+249;Master and Commander: The Far Side of the World;2003;7,4;140120;138;Action;0
+250;The League of Extraordinary Gentlemen;2003;5,8;108276;110;Action;0
+251;Love Actually;2003;7,7;244505;135;Comedy;1
+252;Bruce Almighty;2003;6,7;217140;101;Comedy;1
+253;Spider-Man 2;2004;7,4;275224;127;Action;0
+254;Cars;2006;7,3;168841;117;Animation;1
+255;The Italian Job;2003;7;224597;111;Action;1
+256;Mission: Impossible III;2006;6,8;184806;126;Action;0
+257;Resident Evil: Apocalypse;2004;6,1;122823;94;Action;0
+258;Big Fish;2003;8;295867;125;Adventure;1
+259;The Day After Tomorrow;2004;6,4;245978;124;Action;1
+260;Elf;2003;6,9;109149;97;Comedy;1
+261;Kingdom of Heaven;2005;7,2;164908;144;Action;1
+262;Underworld;2003;7;163653;121;Action;1
+263;2 Fast 2 Furious;2003;5,6;124488;107;Action;1
+264;The Last Samurai;2003;7,7;241419;154;Action;1
+265;Pirates of the Caribbean: The Curse of the Black Pearl;2003;8,1;571506;143;Action;0
+266;Coraline;2009;7,7;110199;100;Animation;1
+267;Man on Fire;2004;7,8;205437;146;Action;1
+268;American Wedding;2003;6,2;128245;96;Comedy;0
+269;Harry Potter and the Goblet of Fire;2005;7,6;284052;157;Adventure;0
+270;School of Rock;2003;7,1;155951;108;Comedy;0
+271;Troy;2004;7,2;274525;163;Adventure;1
+272;Garden State;2004;7,7;164838;102;Comedy;0
+273;Starsky & Hutch;2004;6,1;101718;101;Comedy;1
+274;Live Free or Die Hard;2007;7,3;278271;128;Action;1
+275;Lemony Snicket's A Series of Unfortunate Events;2004;6,8;124794;108;Adventure;1
+276;50 First Dates;2004;6,8;202178;99;Comedy;1
+277;Alexander;2004;5,5;114519;175;Action;1
+278;Howl's Moving Castle;2004;8,2;136153;119;Animation;0
+279;Superman Returns;2006;6,2;205733;154;Action;1
+280;King Arthur;2004;6,3;107097;126;Action;1
+281;Madagascar;2005;6,9;182984;86;Animation;1
+282;Mr. & Mrs. Smith;2005;6,4;236374;120;Action;1
+283;Anchorman: The Legend of Ron Burgundy;2004;7,3;195798;94;Comedy;1
+284;King Kong;2005;7,3;253640;187;Action;1
+285;Inglourious Basterds;2009;8,3;556360;153;Adventure;0
+286;The Terminal;2004;7,3;219436;128;Comedy;0
+287;The Life Aquatic with Steve Zissou;2004;7,3;102399;119;Adventure;0
+288;Dawn of the Dead;2004;7,4;153839;101;Action;1
+289;The Chronicles of Narnia: The Lion, the Witch and the Wardrobe;2005;6,9;216450;143;Adventure;0
+290;Dodgeball: A True Underdog Story;2004;6,7;136735;92;Comedy;0
+291;Shaun of the Dead;2004;8;299764;99;Comedy;1
+292;Harold & Kumar Go to White Castle;2004;7,2;128515;88;Adventure;0
+293;Charlie and the Chocolate Factory;2005;6,8;231856;115;Adventure;1
+294;Indiana Jones and the Kingdom of the Crystal Skull;2008;6,3;254789;122;Action;1
+295;National Treasure;2004;6,9;199418;131;Action;1
+296;AVP: Alien vs. Predator;2004;5,5;111584;101;Action;0
+297;Iron Man;2008;7,9;467927;126;Action;0
+298;The Bourne Supremacy;2004;7,8;251871;108;Action;0
+299;Team America: World Police;2004;7,2;110704;98;Animation;0
+300;Batman Begins;2005;8,3;657342;140;Action;1
+301;Kiss Kiss Bang Bang;2005;7,7;142953;103;Action;0
+302;Harry Potter and the Order of the Phoenix;2007;7,4;261515;138;Adventure;1
+303;Napoleon Dynamite;2004;6,9;130519;82;Comedy;0
+304;Sideways;2004;7,6;125477;126;Comedy;1
+305;X-Men: The Last Stand;2006;6,8;265008;104;Action;0
+306;Mean Girls;2004;6,9;166803;97;Comedy;1
+307;Kill Bill: Vol. 2;2004;8;384686;137;Action;1
+308;Serenity;2005;8;196675;119;Action;1
+309;Casino Royale;2006;8;342173;144;Action;1
+310;3:10 to Yuma;2007;7,8;191108;122;Adventure;0
+311;Ratatouille;2007;8;339920;111;Animation;1
+312;Pirates of the Caribbean: Dead Man's Chest;2006;7,3;381723;151;Action;0
+313;The Golden Compass;2007;6,1;122839;113;Adventure;0
+314;Hitch;2005;6,7;192054;118;Comedy;0
+315;Click;2006;6,5;182883;107;Comedy;0
+316;Wedding Crashers;2005;7;222310;119;Comedy;0
+317;Bolt;2008;7;108261;96;Animation;0
+318;Tangled;2010;7,9;175102;100;Animation;0
+319;The Island;2005;6,9;217914;136;Action;0
+320;John Carter;2012;6,6;165198;132;Action;0
+321;Underworld: Evolution;2006;6,7;122183;106;Action;0
+322;The 40-Year-Old Virgin;2005;7,2;233921;116;Comedy;0
+323;War of the Worlds;2005;6,5;253227;116;Adventure;0
+324;Flightplan;2005;6,2;102678;98;Action;1
+325;Watchmen;2009;7,6;300569;162;Action;1
+326;Cowboys & Aliens;2011;6,1;136790;119;Action;1
+327;Hellboy II: The Golden Army;2008;7,1;169087;120;Action;0
+328;Shrek the Third;2007;6;154120;93;Animation;1
+329;Spider-Man 3;2007;6,3;262797;139;Action;0
+330;300;2006;7,8;463799;117;Action;1
+331;Snakes on a Plane;2006;5,7;102897;105;Action;0
+332;Harry Potter and the Half-Blood Prince;2009;7,4;230099;153;Adventure;1
+333;Stranger Than Fiction;2006;7,7;158488;113;Comedy;1
+334;Get Smart;2008;6,6;139230;110;Action;1
+335;Hot Fuzz;2007;7,9;264052;121;Action;0
+336;Thank You for Smoking;2005;7,7;166818;92;Comedy;0
+337;The A-Team;2010;6,8;167381;117;Action;1
+338;Role Models;2008;6,9;162734;99;Comedy;0
+339;Resident Evil: Extinction;2007;6,3;121351;94;Action;1
+340;Real Steel;2011;7,1;193734;127;Action;0
+341;V for Vendetta;2005;8,2;557149;132;Action;0
+342;The Descent;2005;7,3;118003;99;Adventure;1
+343;Toy Story 3;2010;8,5;354090;103;Animation;1
+344;Ice Age: The Meltdown;2006;6,9;131093;91;Animation;1
+345;Terminator Salvation;2009;6,7;219583;115;Action;1
+346;The Bourne Ultimatum;2007;8,1;349169;115;Action;1
+347;Kung Fu Panda;2008;7,6;209068;90;Animation;0
+348;Beowulf;2007;6,3;122239;115;Animation;0
+349;Vantage Point;2008;6,6;110927;90;Action;0
+350;Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan;2006;7,3;242870;84;Comedy;1
+351;Scott Pilgrim vs. the World;2010;7,5;200557;112;Action;1
+352;Knowing;2009;6,2;152925;121;Action;1
+353;Hancock;2008;6,5;231529;92;Action;0
+354;Little Miss Sunshine;2006;7,9;278063;101;Adventure;1
+355;Pirates of the Caribbean: At World's End;2007;7,1;343573;169;Action;1
+356;Blood Diamond;2006;8;290678;143;Adventure;1
+357;Death Race;2008;6,4;132344;105;Action;0
+358;Deja Vu;2006;7;189848;126;Action;1
+359;Life of Pi;2012;8,1;297300;127;Adventure;0
+360;The Holiday;2006;6,9;137228;138;Comedy;0
+361;Captain America: The First Avenger;2011;6,8;277792;124;Action;0
+362;The Devil Wears Prada;2006;6,8;201103;109;Comedy;0
+363;X-Men Origins: Wolverine;2009;6,8;227155;107;Action;1
+364;Enchanted;2007;7,2;110303;107;Comedy;0
+365;Grindhouse;2007;7,7;130413;191;Action;0
+366;Rambo;2008;7,1;146551;92;Action;1
+367;The Simpsons Movie;2007;7,4;205074;87;Animation;0
+368;The Fast and the Furious: Tokyo Drift;2006;5,9;113877;104;Action;1
+369;National Treasure: Book of Secrets;2007;6,5;145649;124;Action;1
+370;Shoot 'Em Up;2007;6,8;114583;86;Action;1
+371;Juno;2007;7,6;323349;96;Comedy;1
+372;The Dark Knight;2008;9;1151458;152;Action;1
+373;Apocalypto;2006;7,8;193520;139;Action;0
+374;Prince of Persia: The Sands of Time;2010;6,6;167050;116;Action;1
+375;Smokin' Aces;2006;6,7;106009;108;Action;1
+376;Unstoppable;2010;6,8;113239;98;Action;1
+377;Night at the Museum;2006;6,3;160881;108;Action;0
+378;Crank;2006;7;154657;88;Action;0
+379;Fantastic 4: Rise of the Silver Surfer;2007;5,6;161485;92;Action;0
+380;Stardust;2007;7,8;173241;127;Adventure;0
+381;Jumper;2008;6;188779;88;Action;0
+382;Wanted;2008;6,7;237319;110;Action;0
+383;The Chronicles of Narnia: Prince Caspian;2008;6,6;110046;150;Action;1
+384;Avatar;2009;8;657389;162;Action;0
+385;Love & Other Drugs;2010;6,6;104048;112;Comedy;0
+386;Into the Wild;2007;8,2;290910;148;Adventure;0
+387;Body of Lies;2008;7,1;137524;128;Action;0
+388;Man of Steel;2013;7,4;359556;143;Action;0
+389;In Bruges;2008;8;242386;107;Comedy;1
+390;Jack Reacher;2012;7;152015;130;Action;0
+391;Mamma Mia!;2008;6,4;105742;108;Comedy;1
+392;Star Trek;2009;8,1;401643;127;Action;1
+393;Forgetting Sarah Marshall;2008;7,3;175577;111;Comedy;0
+394;The Incredible Hulk;2008;6,9;235963;112;Action;0
+395;Clash of the Titans;2010;5,8;182029;106;Action;1
+396;Thor;2011;7;338213;115;Action;1
+397;Percy Jackson & the Olympians: The Lightning Thief;2010;5,9;102980;118;Adventure;0
+398;World War Z;2013;7,1;283626;116;Action;1
+399;Shooter;2007;7,2;193652;124;Action;1
+400;The Bucket List;2007;7,4;144493;97;Adventure;0
+401;Superbad;2007;7,7;326763;113;Comedy;1
+402;Quantum of Solace;2008;6,7;239525;106;Action;1
+403;Definitely, Maybe;2008;7,2;105226;112;Comedy;1
+404;Step Brothers;2008;6,8;159452;98;Comedy;1
+405;Cloudy with a Chance of Meatballs;2009;7;102371;90;Animation;0
+406;The Avengers;2012;8,2;630936;143;Action;0
+407;Burn After Reading;2008;7;196285;96;Comedy;0
+408;How to Train Your Dragon;2010;8,2;284039;98;Animation;0
+409;The Road;2009;7,3;137408;111;Adventure;1
+410;The Hobbit: An Unexpected Journey;2012;8,1;435346;169;Adventure;1
+411;WALL\302\267E;2008;8,5;476249;98;Animation;0
+412;Harry Potter and the Deathly Hallows: Part 1;2010;7,7;234235;146;Adventure;0
+413;Taken;2008;7,9;364292;93;Action;1
+414;Tropic Thunder;2008;7;239115;107;Action;0
+415;Salt;2010;6,4;190682;100;Action;0
+416;The Amazing Spider-Man;2012;7,2;293750;136;Action;0
+417;Robin Hood;2010;6,7;167266;140;Action;1
+418;You Don't Mess with the Zohan;2008;5,5;121668;113;Action;0
+419;Hugo;2011;7,6;189943;126;Adventure;0
+420;17 Again;2009;6,4;104297;102;Comedy;1
+421;Sucker Punch;2011;6,1;158207;110;Action;1
+422;The Adventures of Tintin;2011;7,4;139438;107;Animation;1
+423;Machete;2010;6,7;137848;105;Action;1
+424;Surrogates;2009;6,3;128003;89;Action;1
+425;Sherlock Holmes;2009;7,6;346449;128;Action;0
+426;The Green Hornet;2011;5,9;112103;119;Action;1
+427;Hanna;2011;6,8;130829;111;Action;0
+428;He's Just Not That Into You;2009;6,4;103062;129;Comedy;0
+429;Megamind;2010;7,3;121511;95;Animation;0
+430;Zack and Miri Make a Porno;2008;6,7;126619;101;Comedy;1
+431;Knight and Day;2010;6,3;112854;109;Action;0
+432;Fast & Furious;2009;6,6;133319;107;Action;1
+433;Alice in Wonderland;2010;6,5;227332;108;Adventure;1
+434;(500) Days of Summer;2009;7,8;273790;95;Comedy;1
+435;Death Proof;2007;7,1;162116;113;Action;1
+436;RocknRolla;2008;7,3;154522;114;Action;1
+437;The Descendants;2011;7,4;163685;115;Comedy;0
+438;What Happens in Vegas;2008;6,1;109552;99;Comedy;1
+439;The Book of Eli;2010;6,9;169539;118;Action;1
+440;The Proposal;2009;6,7;156129;108;Comedy;1
+441;Silver Linings Playbook;2012;7,9;354215;122;Comedy;0
+442;G.I. Joe: The Rise of Cobra;2009;5,8;141426;118;Action;0
+443;Up;2009;8,3;425485;96;Animation;1
+444;The Imaginarium of Doctor Parnassus;2009;6,9;104363;123;Adventure;1
+445;Transformers: Revenge of the Fallen;2009;6;238240;150;Action;0
+446;Eagle Eye;2008;6,6;126202;118;Action;1
+447;Cloverfield;2008;7,1;233016;85;Action;0
+448;Yes Man;2008;6,9;213775;104;Comedy;0
+449;Skyfall;2012;7,8;376186;143;Action;0
+450;Planet Terror;2007;7,3;136725;105;Action;1
+451;Dark Shadows;2012;6,3;147346;113;Comedy;1
+452;Ice Age: Dawn of the Dinosaurs;2009;7,1;112581;94;Animation;0
+453;Adventureland;2009;6,8;106482;107;Comedy;1
+454;Paul;2011;7,1;145230;104;Adventure;0
+455;TRON: Legacy;2010;6,9;208730;125;Action;1
+456;The Taking of Pelham 1 2 3;2009;6,4;113426;106;Action;1
+457;The Hangover;2009;7,8;424794;100;Comedy;1
+458;Green Lantern;2011;5,7;169039;114;Action;0
+459;District 9;2009;8;415390;112;Action;1
+460;The Ugly Truth;2009;6,5;117119;96;Comedy;1
+461;I Love You, Man;2009;7,1;136399;105;Comedy;0
+462;Zombieland;2009;7,8;275243;88;Comedy;0
+463;The Hobbit: The Desolation of Smaug;2013;8,1;249443;161;Adventure;0
+464;2012;2009;5,8;211022;158;Action;1
+465;Rango;2011;7,3;134510;107;Animation;0
+466;The Bourne Legacy;2012;6,7;165213;135;Action;0
+467;Harry Potter and the Deathly Hallows: Part 2;2011;8,1;344216;130;Adventure;0
+468;The Lone Ranger;2013;6,6;116599;149;Action;0
+469;Brave;2012;7,2;165044;93;Animation;0
+470;Battle Los Angeles;2011;5,8;131354;116;Action;0
+471;Resident Evil: Afterlife;2010;5,9;105347;97;Action;1
+472;Ip Man;2008;8,1;101020;106;Action;1
+473;Get Him to the Greek;2010;6,4;122105;109;Comedy;0
+474;Iron Man 2;2010;7,1;337808;124;Action;1
+475;Mission: Impossible - Ghost Protocol;2011;7,4;266646;133;Action;1
+476;Due Date;2010;6,6;215748;95;Comedy;1
+477;Hot Tub Time Machine;2010;6,5;110486;101;Adventure;1
+478;21 Jump Street;2012;7,2;243684;109;Action;1
+479;The Tourist;2010;6;128663;103;Action;1
+480;This Is the End;2013;6,9;188103;107;Comedy;0
+481;Red;2010;7,1;184923;111;Action;1
+482;Kick-Ass;2010;7,8;324419;117;Action;1
+483;Immortals;2011;6,1;112273;110;Action;1
+484;The Twilight Saga: New Moon;2009;4,6;179909;130;Adventure;0
+485;X-Men: First Class;2011;7,8;340539;132;Action;0
+486;Looper;2012;7,5;303605;119;Action;1
+487;Date Night;2010;6,3;102062;88;Comedy;1
+488;Easy A;2010;7,2;182792;92;Comedy;1
+489;Bad Teacher;2011;5,7;123366;92;Comedy;0
+490;Pirates of the Caribbean: On Stranger Tides;2011;6,7;258392;136;Action;1
+491;Iron Man 3;2013;7,4;350466;130;Action;0
+492;Kung Fu Panda 2;2011;7,4;118131;91;Animation;0
+493;50/50;2011;7,8;207865;100;Comedy;1
+494;Rise of the Planet of the Apes;2011;7,6;272305;105;Action;0
+495;The Expendables;2010;6,5;194645;103;Action;1
+496;Gangster Squad;2013;6,8;130219;113;Action;0
+497;Despicable Me;2010;7,7;241480;95;Animation;0
+498;The Twilight Saga: Breaking Dawn - Part 1;2011;4,9;141847;117;Adventure;1
+499;The Twilight Saga: Eclipse;2010;4,9;144112;124;Adventure;1
+500;Dredd;2012;7;149225;95;Action;1
+501;The Dark Knight Rises;2012;8,6;753594;165;Action;1
+502;Cloud Atlas;2012;7,6;210794;172;Adventure;1
+503;Inception;2010;8,8;931327;148;Action;0
+504;Grown Ups;2010;5,9;130952;102;Comedy;0
+505;The Other Guys;2010;6,6;139436;107;Action;1
+506;Total Recall;2012;6,3;155966;118;Action;0
+507;The Hunger Games;2012;7,3;480617;142;Adventure;1
+508;Taken 2;2012;6,3;145092;92;Action;1
+509;Transformers: Dark of the Moon;2011;6,4;238527;154;Action;1
+510;Unknown;2011;6,9;159966;113;Action;0
+511;True Grit;2010;7,7;186806;110;Adventure;1
+512;Star Trek Into Darkness;2013;7,9;272221;132;Action;1
+513;Men in Black 3;2012;6,9;189035;106;Action;0
+514;No Strings Attached;2011;6,2;118876;108;Comedy;1
+515;The Hangover Part II;2011;6,5;270968;102;Comedy;0
+516;Predators;2010;6,4;137701;107;Action;1
+517;Hansel & Gretel: Witch Hunters;2013;6,1;113367;88;Action;0
+518;The Wolverine;2013;6,8;187381;126;Action;0
+519;Rio;2011;7;116302;96;Animation;1
+520;Battleship;2012;5,9;156293;131;Action;0
+521;Prometheus;2012;7,1;339420;124;Adventure;1
+522;Monsters University;2013;7,5;133825;104;Animation;0
+523;Bridesmaids;2011;6,9;166930;125;Comedy;0
+524;Oblivion;2013;7;240839;124;Action;1
+525;The Change-Up;2011;6,4;110399;112;Comedy;0
+526;Horrible Bosses;2011;6,9;256896;98;Comedy;1
+527;Sherlock Holmes: A Game of Shadows;2011;7,5;236863;129;Action;0
+528;Elysium;2013;6,7;194012;109;Action;0
+529;127 Hours;2010;7,7;208624;94;Adventure;1
+530;Just Go with It;2011;6,4;124675;117;Comedy;0
+531;Crazy, Stupid, Love.;2011;7,5;275997;118;Comedy;0
+532;G.I. Joe: Retaliation;2013;5,9;103584;110;Action;1
+533;Warm Bodies;2013;7;129637;98;Comedy;0
+534;Fast Five;2011;7,3;203990;130;Action;1
+535;This Means War;2012;6,4;109220;103;Action;1
+536;Safe House;2012;6,8;125071;115;Action;0
+537;The Grey;2011;6,8;155699;117;Action;1
+538;American Reunion;2012;6,8;137312;113;Comedy;1
+539;Midnight in Paris;2011;7,7;219955;94;Comedy;1
+540;A Good Day to Die Hard;2013;5,4;123837;98;Action;1
+541;Abraham Lincoln: Vampire Hunter;2012;6;100839;105;Action;0
+542;Oz the Great and Powerful;2013;6,4;135860;130;Adventure;1
+543;Friends with Benefits;2011;6,6;182271;109;Comedy;1
+544;Project X;2012;6,7;119215;88;Comedy;1
+545;In Time;2011;6,6;213311;109;Action;1
+546;Ted;2012;7,1;321504;106;Comedy;1
+547;The Dictator;2012;6,4;157623;83;Comedy;1
+548;Wrath of the Titans;2012;5,8;117567;99;Action;0
+549;Kick-Ass 2;2013;6,8;115230;103;Action;1
+550;The Artist;2011;8;145446;100;Comedy;1
+551;Pacific Rim;2013;7,1;233835;131;Action;1
+552;The Twilight Saga: Breaking Dawn - Part 2;2012;5,6;133930;115;Adventure;1
+553;Despicable Me 2;2013;7,6;168167;98;Animation;0
+554;We're the Millers;2013;7,1;170359;110;Comedy;0
+555;Snow White and the Huntsman;2012;6,2;172153;127;Adventure;0
+556;Moonrise Kingdom;2012;7,8;160434;94;Comedy;1
+557;The Expendables 2;2012;6,8;179914;103;Action;1
+558;Wreck-It Ralph;2012;7,8;167471;108;Animation;1
+559;After Earth;2013;5;108264;100;Action;0
+560;Django Unchained;2012;8,5;568931;165;Adventure;1
+561;Fast & Furious 6;2013;7,2;196463;130;Action;1
+562;Seven Psychopaths;2012;7,2;134215;110;Comedy;0
+563;The Hangover Part III;2013;5,9;129218;100;Comedy;1
+564;The Hunger Games: Catching Fire;2013;7,9;267200;146;Adventure;0
+565;Rush;2013;8,3;140946;123;Action;1
+566;Thor: The Dark World;2013;7,3;195634;112;Action;0
+567;Pitch Perfect;2012;7,3;123857;112;Comedy;1
+568;Don Jon;2013;6,8;105210;90;Comedy;1
+569;Frozen;2013;7,9;166804;102;Animation;1
+570;Olympus Has Fallen;2013;6,5;132564;119;Action;0
